@@ -6,7 +6,7 @@ useFMTitle: true
 site:
     copyAssets: true
     siteHierarchies:
-        - root
+        - dendron
     siteRootDir: docs
     usePrettyRefs: true
     title: Dendron
